@@ -185,6 +185,23 @@
   git
   alsa-utils
   pavucontrol
+
+  #My GNOME Extensions
+  gnomeExtensions.appindicator-support
+  gnomeExtensions.arc-menu
+  gnomeExtensions.astra-monitor
+  gnomeExtensions.blur-my-shell
+  gnomeExtensions.caffeine
+  gnomeExtensions.clipboard-indicator
+  gnomeExtensions.coverflow-alt-tab
+  gnomeExtensions.dash-to-dock
+  gnomeExtensions.just-perfection
+  gnomeExtensions.logo-menu
+  gnomeExtensions.quick-settings-tweaks
+  gnomeExtensions.rounded-window-corners
+  gnomeExtensions.user-themes
+  # gnomeExtensions.aylurs-widgets
+  # gnomeExtensions.forge
   ];
  
   environment.sessionVariables = {
